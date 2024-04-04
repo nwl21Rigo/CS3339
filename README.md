@@ -1,2 +1,2 @@
 # CS3339
-Repo including all projects for my Computer Architecture class
+Program completed in c++ to detect floating-point overflow, by analyzing two floating point values as inputs. If there results an overflow between these two values, the program outputs the minimum threshold. If no overflow occurs then nothing will happen and a no overflow statement will be printed. Regardless of overflow or not the values will be printed in binary IEEE format. If nothings is written to the comman line, then it will print an error message explaining the need to write 2 floating point values in order to proceed with the program.  
